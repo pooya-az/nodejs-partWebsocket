@@ -1,0 +1,9 @@
+{
+  "name": "partWebsocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "websocket": "~1.0.0",
+    "extend": "latest"
+  }
+}
